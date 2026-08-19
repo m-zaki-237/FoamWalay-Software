@@ -134,7 +134,7 @@ FoamWalay-Software/
 
 FoamWalay is proprietary software.
 
-Copyright © 2026 Muhammad Zakria (Zaki). All rights reserved.
+Copyright © 2026 Muhammad Zakria. All rights reserved.
 
 See the LICENSE file for the full terms.
 
